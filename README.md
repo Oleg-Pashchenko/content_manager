@@ -21,6 +21,7 @@
 `cat > .env`
 
 `TELEGRAM_TOKEN=`<ваш_телеграм_токен>
+
 `YANDEX_DISK_TOKEN`=<ваш_яндекс_токен>
 
 ---
