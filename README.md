@@ -17,6 +17,7 @@ TELEGRAM_TOKEN=<ваш_телеграм_токен>
 YANDEX_DISK_TOKEN=<ваш_яндекс_токен>
 
 ---
-4) python telegram_client.py
+4) python telegram_client.py 
+или воспользуйтесь командой `nohup python telegram_client.py &` для запуска в фоновом режиме на сервере
 
 ### Хорошего пользования!
