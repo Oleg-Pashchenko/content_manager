@@ -10,7 +10,8 @@
 Настройка ключей доступа
 1. Получите токен телеграм бота в @BotFather
 2. Получите токен Яндекс Диска по [данной инструкции](https://yandex.ru/dev/id/doc/dg/oauth/concepts/about.html)
-### 3. Вставьте их в файл .env:
+3. Вставьте их в файл .env:
+
 cat > .env
 TELEGRAM_TOKEN=<ваш_телеграм_токен>
 YANDEX_DISK_TOKEN=<ваш_яндекс_токен>
